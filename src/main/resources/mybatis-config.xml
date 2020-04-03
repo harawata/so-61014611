@@ -21,8 +21,4 @@
             </dataSource>
         </environment>
     </environments>
-    <!-- 将mapper文件加入到配置文件中 -->
-    <mappers>
-        <mapper resource="com/mybatis/mapper/UserMapper.xml" />
-    </mappers>
 </configuration>
